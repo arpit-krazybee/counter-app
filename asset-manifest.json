@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/arpit-krazybee/counter-app.git/static/css/main.2cce8147.chunk.css",
-    "main.js": "/arpit-krazybee/counter-app.git/static/js/main.33d955e6.chunk.js",
-    "main.js.map": "/arpit-krazybee/counter-app.git/static/js/main.33d955e6.chunk.js.map",
-    "runtime~main.js": "/arpit-krazybee/counter-app.git/static/js/runtime~main.04fd587c.js",
-    "runtime~main.js.map": "/arpit-krazybee/counter-app.git/static/js/runtime~main.04fd587c.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/arpit-krazybee/counter-app.git/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.a6bbc099.chunk.js": "/arpit-krazybee/counter-app.git/static/js/2.a6bbc099.chunk.js",
-    "static/js/2.a6bbc099.chunk.js.map": "/arpit-krazybee/counter-app.git/static/js/2.a6bbc099.chunk.js.map",
-    "index.html": "/arpit-krazybee/counter-app.git/index.html",
-    "precache-manifest.30c5a92cb808a120d39439dcc4c15953.js": "/arpit-krazybee/counter-app.git/precache-manifest.30c5a92cb808a120d39439dcc4c15953.js",
-    "service-worker.js": "/arpit-krazybee/counter-app.git/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/arpit-krazybee/counter-app.git/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/arpit-krazybee/counter-app.git/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/arpit-krazybee/counter-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/counter-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/counter-app/static/js/main.af02db9e.chunk.js",
+    "main.js.map": "/counter-app/static/js/main.af02db9e.chunk.js.map",
+    "runtime~main.js": "/counter-app/static/js/runtime~main.c63f0888.js",
+    "runtime~main.js.map": "/counter-app/static/js/runtime~main.c63f0888.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/counter-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.a6bbc099.chunk.js": "/counter-app/static/js/2.a6bbc099.chunk.js",
+    "static/js/2.a6bbc099.chunk.js.map": "/counter-app/static/js/2.a6bbc099.chunk.js.map",
+    "index.html": "/counter-app/index.html",
+    "precache-manifest.c5a56bb1485705ad2782ff6e3fcb4c23.js": "/counter-app/precache-manifest.c5a56bb1485705ad2782ff6e3fcb4c23.js",
+    "service-worker.js": "/counter-app/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/counter-app/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/counter-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/counter-app/static/media/logo.5d5d9eef.svg"
   }
 }
