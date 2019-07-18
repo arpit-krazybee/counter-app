@@ -26,7 +26,7 @@
          if(this.state.value>0)
          {
         this.setState({value:this.state.value-1})}
- };
+    };
      max(){
         if(this.state.value===10)
         {
