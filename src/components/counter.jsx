@@ -19,6 +19,9 @@
         this.setState({value: this.state.value + 1})
     }
      };
+     handleReset = ()=>{
+         this.setState({value:this.state.value-this.state.value+1})
+     };
      handleDecrement=() =>{
          if(this.state.value>0)
          {
@@ -43,7 +46,9 @@
              <div> 
                  {this.props.children}
              <span style={ this.styles} className={this.getBadgeClasses()}>{this.state.value}</span>
-             <button onClick={this.handleDecrement} className="btn btn-ternary m-2">Decrement</button>
+             <br></br>
+             <button onClick={this.handleReset}className="btn btn-primary m-2">Reset</button>
+             <button onClick={this.handleDecrement} className="btn btn-info m-4">Decrement</button>
              <button onClick={this.handleIncrement} className="btn btn-secondary m-2">Increment</button>
              <button onClick={()=>this.props.onDelete(this.props.id)} className="btn btn-danger m-2">Delete</button>
             {this.max()}
